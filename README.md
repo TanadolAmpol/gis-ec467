@@ -1,9 +1,2 @@
-# gis-ec467
+### EC467 Qgisworkshop_EC467
 
-# Heading1
-
-## Heading2
-
-### Heading3
-
-Tanadol Ampol (Kang), I'm an economics student
